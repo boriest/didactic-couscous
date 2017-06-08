@@ -41,7 +41,7 @@ x_59649_didactic_c.CouscousUtil = (function() {
         <sys_class_name>sys_ui_script</sys_class_name>
         <sys_created_by>thomas.bories</sys_created_by>
         <sys_created_on>2017-06-08 00:57:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9245de94db9b3200a18e73ffbf9619a0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_59649_didactic_c.CouscousUtil</sys_name>
